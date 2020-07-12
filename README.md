@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div style="display: flex; flex-direction: row;">
   <div style="display: flex; align-items: center; justify-content: center; flex-direction: column;">
-    <img src="https://rudeboy.dev/images/logo.gif" alt="Rude Boy Enterprises Logo" style="display:flex; width: 100px; height: 100px;"/>
+    <img src="https://rudeboy.dev/images/logo.gif" alt="Rude Boy Enterprises Logo" style="display:flex; width: 100px; height: 100px;" width="100" height="100"/>
   </div>
   <div style="">
     My name is Samuel C Tyler and I have been passionate about
