@@ -1,13 +1,20 @@
 ### Hi there 👋
-My name is Samuel C Tyler and I have been passionate about
-web application development since 1996! However, my
-Professional work did not start until 2007. I love
-learning new things, so am constantly adding to my
-programming toolbox, which already contains modern JavaScript,
-Ruby (w/ Rails), Python (w/ Django), Perl, and PHP. My
-next venture is Go, to be used for Kubernetes monitoring
-and microservice orchestration. I currently work as a 
-full-stack developer, who sometimes wears a DevOps hat.
+<div style="display: flex; flex-direction: row;">
+  <div style="display: flex; align-items: center; justify-content: center; flex-direction: column;">
+    <img src="https://rudeboy.dev/images/logo.gif" alt="Rude Boy Enterprises Logo" style="display:flex; width: 100px; height: 100px;"/>
+  </div>
+  <div style="">
+    My name is Samuel C Tyler and I have been passionate about
+    web application development since 1996! However, my
+    Professional work did not start until 2007. I love
+    learning new things, so am constantly adding to my
+    programming toolbox, which already contains modern JavaScript,
+    Ruby (w/ Rails), Python (w/ Django), Perl, and PHP. My
+    next venture is Go, to be used for Kubernetes monitoring
+    and microservice orchestration. I currently work as a 
+    full-stack developer, who sometimes wears a DevOps hat.
+  </div>
+</div>
 
 ## Cool Projects
 I am currently trying to teach other early professionals how professional development is done. 
