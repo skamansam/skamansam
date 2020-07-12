@@ -1,4 +1,14 @@
 ### Hi there 👋
+My name is Samuel C Tyler and I have been passionate about
+web application development since 1996! However, my
+Professional work did not start until 2007. I love
+learning new things, so am constantly adding to my
+programming toolbox, which already contains modern JavaScript,
+Ruby (w/ Rails), :python: Python (w/ Django), Perl, and PHP. My
+next venture is Go, to be used for Kubernetes monitoring
+and microservice orchestration. I currently work as a 
+full-stack developer, who sometimes wears a DevOps hat.
+
 
 <!--
 **skamansam/skamansam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
