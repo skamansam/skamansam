@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-> <img src="https://rudeboy.dev/images/logo.gif" alt="Rude Boy Enterprises Logo" align="left" width="100" height="100"/>
+> <img src="https://rudeboy.dev/rbe_logo.gif" alt="Rude Boy Enterprises Logo" align="left" width="100" height="100"/>
 >    My name is Samuel C Tyler and I have been passionate about
 >    web application development since 1996! However, my
 >    Professional work did not start until 2007. I love
@@ -19,17 +19,11 @@ agile methodologies (as actually applied in the real world), enforcing code styl
 and actually explainign these things to others. If you would like to get soem real-world experience,
 or just want to lend a hand, join the [BizziQuest organization](https://github.com/organizations/BizziQuest)!
 
-<!--
-**skamansam/skamansam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on recreating my blog theme from scratch (re: optimizing)
+- 🌱 I’m currently learning more about Design Fundamentals
+- 👯 I’m looking to collaborate on QuestLists!
+- 🤔 I’m looking for help with QuestLists!
+- 💬 Ask me about Vue, Python, Javascript, Django, Ruby, Rails
+- 📫 How to reach me: skamansam@gmail.com
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I took 10 years off before going to uni so I could teach myself how to learn and see if I wanted to become a Chef or a Programmer.
