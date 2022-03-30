@@ -22,10 +22,10 @@ agile methodologies (as actually applied in the real world), enforcing code styl
 and actually explainign these things to others. If you would like to get soem real-world experience,
 or just want to lend a hand, join the [BizziQuest organization](https://github.com/organizations/BizziQuest)!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skamansam" alt="skamansam" /></a> </p>
+## Github Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skamansam&margin-w=15&margin-h=10&column=6&no-bg=true&no-frame=true&theme=discord" alt="skamansam" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/skamansam" target="blank"><img src="https://img.shields.io/twitter/follow/skamansam?logo=twitter&style=for-the-badge" alt="skamansam" /></a> </p>
-
+## Elevator Pitch
 - 🔭 I’m currently working on [Hurdle](https://github.com/skamansam/hurdle) and several themes for [my blog](https://rudeboy.dev).
 - 🌱 I’m currently learning **Svelte, Tailwind, Typescript, Design/UX Principles**
 - 👯 I’m looking to collaborate on [QuestLists](https://github.com/BizziQuest/QuestListsFB)
@@ -36,6 +36,9 @@ or just want to lend a hand, join the [BizziQuest organization](https://github.c
 - 📫 How to reach me **skamansam@gmail.com**
 - 😄 Pronouns: He/His
 - ⚡ Fun fact **I have 10 year experience in the restaurant industry, in all positions from line cook to manager. I was in Dawson's Creek as a featured extra. I have been using Linux as my main driver since 2001. I love Ska.**
+
+<p align="left"> <a href="https://twitter.com/skamansam" target="blank"><img src="https://img.shields.io/twitter/follow/skamansam?logo=twitter&style=for-the-badge" alt="skamansam" /></a> </p>
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -59,6 +62,7 @@ or just want to lend a hand, join the [BizziQuest organization](https://github.c
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/skamansam"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="skamansam" /></a></p><br><br>
 
+## Random GitHub Stats
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=skamansam&show_icons=true&locale=en&layout=compact" alt="skamansam" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skamansam&show_icons=true&locale=en" alt="skamansam" /></p>
