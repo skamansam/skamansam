@@ -3,6 +3,52 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skamansam&label=Profile%20views&color=0e75b6&style=flat" alt="skamansam" /> </p>
 
+<svg fill="none" viewBox="0 0 300 120" width="300" height="120" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				.tags {
+					display: flex;
+					flex-wrap: wrap;
+					height: 100%;
+					width: 100%;
+				}
+				.tag {
+					background-color: #e3ffff;
+					border-radius: 0.25em;
+					color: #0ca4a5;
+					border: 1px solid #0ca4a5;
+					display: inline-block;
+					font-size: 0.75em;
+					line-height: 2em;
+					margin: 0.125em;
+					padding: 0 0.5em;
+					text-decoration: none;
+					font-family: sans-serif;
+				}
+			</style>
+
+			<div class="tags">
+				<div class="tag">Angular</div>
+				<div class="tag">Vue(X)</div>
+				<div class="tag">JavaScript</div>
+				<div class="tag">TypeScript</div>
+			</div>
+			<div class="tags">
+				<div class="tag">(S)CSS</div>
+				<div class="tag">Building UIs</div>
+				<div class="tag">Web Components</div>
+			</div>
+			<div class="tags">
+				<div class="tag">Ionic</div>
+				<div class="tag">Electron</div>
+				<div class="tag">.NET</div>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
+
+
 > <img src="https://rudeboy.dev/rbe_logo.gif" alt="Rude Boy Enterprises Logo" align="left" width="100" height="100"/>
 >    My name is Samuel C Tyler and I have been passionate about
 >    web application development since 1996! However, my
@@ -37,11 +83,17 @@ or just want to lend a hand, join the [BizziQuest organization](https://github.c
 - 😄 Pronouns: He/His
 - ⚡ Fun fact **I have 10 year experience in the restaurant industry, in all positions from line cook to manager. I was in Dawson's Creek as a featured extra. I have been using Linux as my main driver since 2001. I love Ska.**
 
-<p align="left"> <a href="https://twitter.com/skamansam" target="blank"><img src="https://img.shields.io/twitter/follow/skamansam?logo=twitter&style=for-the-badge" alt="skamansam" /></a> </p>
+
+<a href="https://www.github.com/skamansam" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/skamansam?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a><a href="https://www.twitter.com/skamansam" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/skamansam?logo=twitter&style=for-the-badge&color=a855f7&labelColor=1c1917"
+/></a><a href="https://www.twitch.tv/skamansam" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/skamansam?logo=twitchsx&style=for-the-badge&color=a855f7&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+[In progress: This is supposed to be integrated with my blog deploy so it gets updated every time my blog updates are deployed.]
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
@@ -63,8 +115,19 @@ or just want to lend a hand, join the [BizziQuest organization](https://github.c
 <p><a href="https://www.buymeacoffee.com/skamansam"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="skamansam" /></a></p><br><br>
 
 ## Random GitHub Stats
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=skamansam&show_icons=true&locale=en&layout=compact" alt="skamansam" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skamansam&show_icons=true&locale=en" alt="skamansam" /></p>
+Unfortunately, I don't get to work on my open source projects nearly as much as I would like. ;(
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skamansam&" alt="skamansam" /></p>
+<a href="http://www.github.com/skamansam"><img src="https://github-readme-stats.vercel.app/api?username=skamansam&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="skamansam's GitHub stats" /></a>
+
+<a href="http://www.github.com/skamansam"><img src="https://github-readme-streak-stats.herokuapp.com/?user=skamansam&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/skamansam"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=skamansam&bg_color=1c1917&color=ffffff&line=a855f7&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/skamansam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skamansam&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/skamansam/skamansam.github.io" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=skamansam&repo=skamansam.github.io&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+
