@@ -31,6 +31,15 @@ or just want to lend a hand, join the [BizziQuest organization](https://github.c
 
 ## Recent Work Breakdown via Wakatime
 <!--START_SECTION:waka-->
+
+```txt
+Python       5 hrs 36 mins   ████████████▒░░░░░░░░░░░░   48.88 %
+Vue.js       4 hrs 55 mins   ██████████▓░░░░░░░░░░░░░░   43.00 %
+JavaScript   27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+JSON         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+YAML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Elevator Pitch
