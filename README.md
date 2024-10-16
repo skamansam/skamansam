@@ -5,7 +5,9 @@
 
 
 
-> <img src="https://rudeboy.dev/rbe_logo.gif" alt="Rude Boy Enterprises Logo" align="left" width="100" height="100"/>
+> <div style="background-color: #ccc;" align="left" width="100" height="100">
+>  <img src="https://rudeboy.dev/rbe_logo.gif" alt="Rude Boy Enterprises Logo" align="left" width="100" height="100" style="background-color: white;"/>
+> </div>
 >    My name is Samuel C Tyler and I have been passionate about
 >    web application development since 1996! However, my
 >    Professional work did not start until 2007. I love
@@ -27,6 +29,10 @@ or just want to lend a hand, join the [BizziQuest organization](https://github.c
 ## Github Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skamansam&margin-w=15&margin-h=10&column=6&no-bg=true&no-frame=true&theme=discord" alt="skamansam" /></a> </p>
 
+## Recent Work Breakdown via Wakatime
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Elevator Pitch
 - 🔭 I’m currently working on [Hurdle](https://github.com/skamansam/hurdle) and several themes for [my blog](https://rudeboy.dev).
 - 🌱 I’m currently learning **Svelte, Tailwind, Typescript, Design/UX Principles**
@@ -46,6 +52,9 @@ src="https://img.shields.io/twitter/follow/skamansam?logo=twitter&style=for-the-
 /></a><a href="https://www.twitch.tv/skamansam" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/skamansam?logo=twitchsx&style=for-the-badge&color=a855f7&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
+### Developer Roadmap.sh
+
+[![roadmap.sh](https://roadmap.sh/card/tall/670f2a24791f57dd602d4dad?variant=dark)](https://roadmap.sh)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -56,11 +65,9 @@ src="https://img.shields.io/twitch/status/skamansam?logo=twitchsx&style=for-the-
 <p align="left">
 <a href="https://codepen.io/skamansam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="skamansam" height="30" width="40" /></a>
 <a href="https://dev.to/skamansam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="skamansam" height="30" width="40" /></a>
-<a href="https://twitter.com/skamansam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="skamansam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/skamansam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="skamansam" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/skamansam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="skamansam" height="30" width="40" /></a>
 <a href="https://fb.com/skamansam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="skamansam" height="30" width="40" /></a>
-<a href="https://medium.com/@skamansam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@skamansam" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/skamansam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="skamansam" height="30" width="40" /></a>
 </p>
 
