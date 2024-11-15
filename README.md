@@ -33,15 +33,15 @@ or just want to lend a hand, join the [BizziQuest organization](https://github.c
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 November 2024 - To: 13 November 2024
+From: 07 November 2024 - To: 14 November 2024
 
-Total Time: 8 hrs 35 mins
+Total Time: 6 hrs 29 mins
 
-Vue.js       5 hrs 16 mins   ██████████████▒░░░░░░░░░░   57.40 %
-JavaScript   1 hr 3 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
-SCSS         47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
-Other        36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
-Python       30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+Vue.js       3 hrs 45 mins   ███████████▓░░░░░░░░░░░░░   46.02 %
+Other        1 hr 39 mins    █████░░░░░░░░░░░░░░░░░░░░   20.38 %
+JavaScript   59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
+SCSS         47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
+YAML         24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
 ```
 
 <!--END_SECTION:waka-->
