@@ -33,13 +33,13 @@ or just want to lend a hand, join the [BizziQuest organization](https://github.c
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2024 - To: 30 December 2024
+From: 24 December 2024 - To: 31 December 2024
 
-Total Time: 1 hr 59 mins
+Total Time: 1 hr 17 mins
 
-Other        5 hrs 59 mins   ██████████████████▓░░░░░░   74.98 %
-Svelte       1 hr 7 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.10 %
-JavaScript   52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
+Other        3 hrs 23 mins   ██████████████████░░░░░░░   72.43 %
+Svelte       1 hr 7 mins     ██████░░░░░░░░░░░░░░░░░░░   24.08 %
+JavaScript   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
 ```
 
 <!--END_SECTION:waka-->
