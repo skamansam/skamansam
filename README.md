@@ -33,15 +33,15 @@ or just want to lend a hand, join the [BizziQuest organization](https://github.c
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 April 2025 - To: 01 May 2025
+From: 25 April 2025 - To: 02 May 2025
 
-Total Time: 4 hrs 8 mins
+Total Time: 4 hrs 25 mins
 
-Other         6 hrs 57 mins   ███████████████▓░░░░░░░░░   62.72 %
-YAML          1 hr 48 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.35 %
-JavaScript    47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
-Image (svg)   36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
-OASv3-yaml    24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+Other         7 hrs 57 mins   ████████████████░░░░░░░░░   64.23 %
+YAML          2 hrs 13 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.95 %
+JavaScript    47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+Python        38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+JSON          18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
 ```
 
 <!--END_SECTION:waka-->
