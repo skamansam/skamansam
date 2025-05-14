@@ -33,13 +33,13 @@ or just want to lend a hand, join the [BizziQuest organization](https://github.c
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2025 - To: 12 May 2025
+From: 06 May 2025 - To: 13 May 2025
 
-Total Time: 2 hrs 32 mins
+Total Time: 1 hr 57 mins
 
-Other        5 hrs 30 mins   █████████████████░░░░░░░░   68.45 %
-TypeScript   2 hrs 11 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.28 %
-JavaScript   20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+Other        4 hrs 48 mins   █████████████████▓░░░░░░░   71.09 %
+TypeScript   1 hr 35 mins    ██████░░░░░░░░░░░░░░░░░░░   23.54 %
+JavaScript   21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
 ```
 
 <!--END_SECTION:waka-->
