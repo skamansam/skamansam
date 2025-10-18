@@ -33,13 +33,13 @@ or just want to lend a hand, join the [BizziQuest organization](https://github.c
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 October 2025 - To: 16 October 2025
+From: 10 October 2025 - To: 17 October 2025
 
-Total Time: 1 hr 18 mins
+Total Time: 1 hr 22 mins
 
-Other      15 hrs 8 mins   ███████████████████████░░   92.00 %
-Markdown   1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
-Shell      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Other      15 hrs 45 mins  ███████████████████████░░   92.02 %
+Markdown   1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
+Shell      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
