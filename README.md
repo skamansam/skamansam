@@ -33,15 +33,15 @@ or just want to lend a hand, join the [BizziQuest organization](https://github.c
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 October 2026 - To: 27 October 2026
+From: 21 October 2026 - To: 28 October 2026
 
-Total Time: 4 hrs 45 mins
+Total Time: 7 hrs 33 mins
 
-Markdown     2 hrs 21 mins         █████████░░░░░░░░░░░░░░░░   36.55 %
-Other        1 hr 42 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.34 %
-Rust         1 hr 2 mins           ████░░░░░░░░░░░░░░░░░░░░░   16.13 %
-Vue          26 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
-JavaScript   21 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
+Markdown     2 hrs 59 mins         ████████░░░░░░░░░░░░░░░░░   32.28 %
+Rust         2 hrs 8 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.10 %
+Other        1 hr 43 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.59 %
+YAML         56 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+Vue          26 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
 ```
 
 <!--END_SECTION:waka-->
